@@ -32,7 +32,6 @@ It includes fields like:
 - **label** – indicates whether the message is spam or ham  
 - **message** – the actual content of the SMS
 
-Source: [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 ---
 
@@ -49,8 +48,8 @@ Source: [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/dataset
 ## 🛠 Installation
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/spam-detection.git
-cd spam-detection
+git clone https://github.com/Sainilapwar01/Spam_Detection.git
+cd Spam_Detection
 ```
 
 Install the required packages:
