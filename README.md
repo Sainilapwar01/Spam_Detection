@@ -1,7 +1,7 @@
 
 # 📩 Spam Detection using Machine Learning
 
-A machine learning project that classifies SMS messages as **spam** or **ham** using Natural Language Processing and various ML models.
+A machine learning project that classifies Email as **spam** or **ham** using Natural Language Processing and various ML models.
 
 ---
 
